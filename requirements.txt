@@ -1,0 +1,24 @@
+# SudarshanChakra - Acoustic UAV Threat Detection System
+# Core Dependencies
+
+# Audio Processing
+librosa>=0.10.0
+soundfile>=0.12.0
+
+# Deep Learning
+torch>=2.0.0
+torchaudio>=2.0.0
+torchvision>=0.15.0
+
+# Data Science
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Utilities
+tqdm>=4.65.0
+pyyaml>=6.0
